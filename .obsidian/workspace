@@ -4,39 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae2a552adbad3ecf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H-1. 教育心理.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "00472c797af26ce2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "S-精神分析心理學.md",
-            "mode": "source"
-          }
-        },
-        "group": "e7419feaf1482127"
-      },
-      {
-        "id": "7fa7c1add9e35f61",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "S-精神分析心理學.md",
-            "mode": "preview"
-          }
-        },
-        "group": "e7419feaf1482127"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -111,8 +84,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c88fd81367f4693e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "S-精神分析心理學.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -121,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174
+    "width": 174,
+    "collapsed": true
   },
   "active": "00472c797af26ce2",
   "lastOpenFiles": [
