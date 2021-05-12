@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "00472c797af26ce2",
+        "id": "3ecf00fbaff675b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "S-認知心理學.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -84,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "S-認知心理學.md"
+              }
             }
           },
           {
@@ -93,13 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "S-認知心理學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -108,20 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174,
-    "collapsed": true
+    "width": 174
   },
-  "active": "00472c797af26ce2",
+  "active": "3ecf00fbaff675b2",
   "lastOpenFiles": [
-    "S-精神分析心理學.md",
-    "H-1. 教育心理.md",
+    "S-認知心理學.md",
+    "S-完形心理學.md",
+    "P-柯勒Kohler.md",
     "Untitled.md",
-    "S-人格心理學.md",
-    "P-荷妮Horney.md",
-    "P-艾辛克Eysenck.md",
-    "P-薛爾頓Sheldon.md",
-    "P-榮格Jung.md",
-    "S-同元素論.md",
-    "S-現代心理學的五大理論.md"
+    "P-魏特金Witkin.md",
+    "P-勒溫Kurt Lewin.md",
+    "S-建構主義.md",
+    "C-Piaget對知識建構的看法 vs Vygotsky對知識建構的看法.md",
+    "C-個人建構學習情境vs社會建構學習情境.md",
+    "S-古典制約.md"
   ]
 }
