@@ -4,15 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "67fdc14a6059bf08",
+        "id": "e6ee9d29fccd45c8",
         "type": "leaf",
+        "dimension": 26.616915422885572,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "S-Piaget認知發展四階段.md",
+            "file": "H-測驗與評量.md",
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "df3fb37b0c5b85a5",
+        "type": "leaf",
+        "dimension": 36.691542288557216,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "S-信度.md",
+            "mode": "source"
+          }
+        },
+        "group": "88d89053e9f93c0a"
+      },
+      {
+        "id": "83f1462abf1e67c6",
+        "type": "leaf",
+        "dimension": 36.691542288557216,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "S-信度.md",
+            "mode": "preview"
+          }
+        },
+        "group": "88d89053e9f93c0a"
       }
     ],
     "direction": "vertical"
@@ -56,12 +83,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 361,
+    "collapsed": true
   },
   "right": {
     "id": "df6f0945310cd838",
@@ -88,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S-Piaget認知發展四階段.md"
+                "file": "S-信度.md"
               }
             }
           },
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S-Piaget認知發展四階段.md",
+                "file": "S-信度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +143,17 @@
     "direction": "horizontal",
     "width": 174
   },
-  "active": "67fdc14a6059bf08",
+  "active": "df3fb37b0c5b85a5",
   "lastOpenFiles": [
+    "S-信度.md",
+    "H-測驗與評量.md",
+    "Untitled.md",
     "S-Piaget認知發展四階段.md",
     "S-訊息處理學習理論(信息加工學習論).md",
-    "Untitled.md",
     "S-認知心理學.md",
     "C-發現學習論vs意義學習論.md",
     "S-意義學習論.md",
     "S-發現學習論.md",
-    "S-Case認知發展論.md",
-    "S-Vygotsky社會文化認知發展論.md",
-    "S-新皮亞傑學派Neo-Piagetian(第五期理論者).md"
+    "S-Case認知發展論.md"
   ]
 }
