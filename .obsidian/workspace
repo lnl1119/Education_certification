@@ -6,7 +6,6 @@
       {
         "id": "e6ee9d29fccd45c8",
         "type": "leaf",
-        "dimension": 59.197786998616884,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,13 +15,12 @@
         }
       },
       {
-        "id": "935bf5dbfa2167c9",
+        "id": "456be2b30077a5f4",
         "type": "leaf",
-        "dimension": 40.80221300138313,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "S-測量標準誤.md",
+            "file": "S-效度.md",
             "mode": "source"
           }
         }
@@ -101,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S-測量標準誤.md"
+                "file": "S-效度.md"
               }
             }
           },
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S-測量標準誤.md",
+                "file": "S-效度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +127,17 @@
     "direction": "horizontal",
     "width": 174
   },
-  "active": "935bf5dbfa2167c9",
+  "active": "456be2b30077a5f4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "S-信度.md",
+    "S-效度.md",
     "H-測驗與評量.md",
+    "Untitled.md",
+    "S-測量標準誤.md",
+    "S-信度.md",
     "S-Piaget認知發展四階段.md",
     "S-訊息處理學習理論(信息加工學習論).md",
     "S-認知心理學.md",
     "C-發現學習論vs意義學習論.md",
-    "S-意義學習論.md",
-    "S-發現學習論.md",
-    "S-Case認知發展論.md"
+    "S-意義學習論.md"
   ]
 }
