@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "566cba58949fbaeb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "S-認知心理學.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "67fdc14a6059bf08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "S-訊息處理學習理論(信息加工學習論).md",
+            "file": "S-Piaget認知發展四階段.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "皮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,12 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361,
-    "collapsed": true
+    "width": 361
   },
   "right": {
     "id": "df6f0945310cd838",
@@ -99,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S-訊息處理學習理論(信息加工學習論).md"
+                "file": "S-Piaget認知發展四階段.md"
               }
             }
           },
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S-訊息處理學習理論(信息加工學習論).md",
+                "file": "S-Piaget認知發展四階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +118,7 @@
   },
   "active": "67fdc14a6059bf08",
   "lastOpenFiles": [
+    "S-Piaget認知發展四階段.md",
     "S-訊息處理學習理論(信息加工學習論).md",
     "Untitled.md",
     "S-認知心理學.md",
@@ -137,7 +127,6 @@
     "S-發現學習論.md",
     "S-Case認知發展論.md",
     "S-Vygotsky社會文化認知發展論.md",
-    "S-新皮亞傑學派Neo-Piagetian(第五期理論者).md",
-    "S-Piaget認知發展論.md"
+    "S-新皮亞傑學派Neo-Piagetian(第五期理論者).md"
   ]
 }
