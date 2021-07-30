@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ee9d29fccd45c8",
+        "id": "27116e675019625e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H-測驗與評量.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "456be2b30077a5f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "S-效度.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -98,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "S-效度.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S-效度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +110,17 @@
     "direction": "horizontal",
     "width": 174
   },
-  "active": "456be2b30077a5f4",
+  "active": "27116e675019625e",
   "lastOpenFiles": [
-    "S-效度.md",
+    "S-14. 永恆主義Perennialism(1920~1930).md",
     "H-測驗與評量.md",
+    "S-效度.md",
     "Untitled.md",
     "S-測量標準誤.md",
     "S-信度.md",
     "S-Piaget認知發展四階段.md",
     "S-訊息處理學習理論(信息加工學習論).md",
     "S-認知心理學.md",
-    "C-發現學習論vs意義學習論.md",
-    "S-意義學習論.md"
+    "C-發現學習論vs意義學習論.md"
   ]
 }
